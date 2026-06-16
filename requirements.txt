@@ -1,0 +1,10 @@
+streamlit
+numpy
+torch
+opencv-python
+scipy
+matplotlib
+
+seaborn
+scikit-learn
+wfdb
